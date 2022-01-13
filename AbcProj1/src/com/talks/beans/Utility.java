@@ -6,7 +6,7 @@ public class Utility {
 	
 	public Date getDate()
 	{
-		//Testing
+		//Testing 1
 		return new Date();
 	}
 
